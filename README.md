@@ -6,5 +6,5 @@
 ![image](https://github.com/Apollo-Apostolos/Learning-x86-with-NASM/assets/53583068/ad7c1a11-8b49-4f74-8754-406d58501e4b)
 
 
-< https://yewtu.be/channel/UC7KBXRtv-EkiOFsRtpBxIbg/playlist?list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB >
+via Invidious: https://[choose_invidious_instance](https://docs.invidious.io/instances/#list-of-public-invidious-instances-sorted-from-oldest-to-newest)/channel/UC7KBXRtv-EkiOFsRtpBxIbg/playlist?list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB
 
