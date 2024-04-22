@@ -1,5 +1,5 @@
 # Course of Interest
-##x86 Assembly with NASM
+## x86 Assembly with NASM
 
 ![image](https://github.com/Apollo-Apostolos/Learning-x86-with-NASM/assets/53583068/ad7c1a11-8b49-4f74-8754-406d58501e4b)
 
