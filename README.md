@@ -23,11 +23,17 @@ It helped me to have .bashrc Portable Aliases quickly process the code-files, el
 2. Link in Libraries like a mad-lib game? 
 3. Pipe through GDB (the debugger)
 
-When it could be one:
+![image](https://github.com/Apollo-Apostolos/Learning-x86-with-NASM/assets/53583068/eab0dff8-e239-4c89-9475-e16a38cccf39)
 
+When it could be one: `run a` (press TAB for autocompletion)
+1. change directory to class directory
+2. autopop into debugger.
 ```bash
-run assembly_quick_compile_link_debug.sh 
+run assembly_quick_compile_link_debug.sh
 ```
+Next is to add quick navigation to the directory's $PATH.
+As the courses add up, maybe I'll add [selection process](https://yewtu.be/watch?v=hJzqEAf2U4I). 
+IDK what I'm doing.
 
 ### NeoVim
 After I learn from ThePrimeagen-&-TJDev to get my NeoVim set up, then it's on to
