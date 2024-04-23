@@ -18,21 +18,24 @@ Might have discovered a bug in GDB. It's typography "(gdb)" turned blue. How I d
 
 ## Preparation Requirements?
 ### Portable Aliases ~ .bashrc
-It helped me to have .bashrc Portable Aliases quickly process the code-files, else you'd be doing these three steps:
-1. Compile into Machine Code? 
-2. Link in Libraries like a mad-lib game? 
-3. Pipe through GDB (the debugger)
-
-![image](https://github.com/Apollo-Apostolos/Learning-x86-with-NASM/assets/53583068/eab0dff8-e239-4c89-9475-e16a38cccf39)
+It helped me to have .bashrc Portable Aliases quickly process the code-files, else I'd enter in these three steps:
+1. Compile Assembly into Machine Code (?)
+2. Link Machine Code with Libraries (?)
+3. Use GDB to run Linked Machine-Code (?)
 
 When it could be one: `run a` (press TAB for autocompletion)
-1. change directory to class directory
-2. autopop into debugger.
+1. Pipeline Assembly all the way to the debugger {GDB}.
 ```bash
 run assembly_quick_compile_link_debug.sh
 ```
+
+
+![image](https://github.com/Apollo-Apostolos/Learning-x86-with-NASM/assets/53583068/eab0dff8-e239-4c89-9475-e16a38cccf39)
+
 Next is to add quick navigation to the directory's $PATH.
+
 As the courses add up, maybe I'll add [selection process](https://yewtu.be/watch?v=hJzqEAf2U4I). 
+
 IDK what I'm doing.
 
 ### NeoVim
