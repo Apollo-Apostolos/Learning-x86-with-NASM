@@ -36,8 +36,6 @@ Next is to add quick navigation to the directory's $PATH.
 
 As the courses add up, maybe I'll add [selection process](https://yewtu.be/watch?v=hJzqEAf2U4I). 
 
-IDK what I'm doing.
-
 ### NeoVim
 After I learn from ThePrimeagen-&-TJDev to get my NeoVim set up, then it's on to
 - bringing in my x86_64 Linux Assembly notes
